@@ -1,0 +1,14 @@
+{
+  "name": "cosmic-nexus-frontend",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Cosmic Nexus Frontend",
+  "scripts": {
+    "dev": "npx serve public",
+    "start": "npx serve public"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "serve": "^14.2.0"
+  }
+}
